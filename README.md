@@ -7,3 +7,7 @@ See
 ---
 * https://sourceforge.net/p/rssowl/discussion/296910/thread/696dafff/
 * https://sourceforge.net/p/rssowl/discussion/296910/thread/57483982/
+
+further info
+------------
+* http://portableapps.com/development
