@@ -15,3 +15,4 @@ further info
   * http://portableapps.com/node/19271 RSSOwl 2M9 Portable Dev Test 4
   * http://portableapps.com/node/24728 RSSOwl Portable 2.0.6 Development Test1
   * http://code.google.com/p/rssowl-portable/ (of RSSOwl 1.2.3 version)
+  * http://portableapps.com/search/node/RSSOwl
