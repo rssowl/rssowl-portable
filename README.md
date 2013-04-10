@@ -42,3 +42,7 @@ Debugging
 ---------
 * for debugging the installer see http://portableapps.com/manuals/PortableApps.comLauncher/advanced/debug.html
 * for debugging RSSOwl see http://www.rssowl.org/help , the forum and the source code repository
+
+Releasing
+---------
+* Check before releasing: http://portableapps.com/manuals/PortableApps.comLauncher/topics/checklist.html
