@@ -12,7 +12,7 @@ Information
 -----------
 * http://portableapps.com/development
 * http://portableapps.com/manuals/PortableApps.comLauncher/ref/index.html
-* older RSSOwl portable link:
+* older RSSOwl portable links:
   * http://portableapps.com/node/19271 RSSOwl 2M9 Portable Dev Test 4
   * http://portableapps.com/node/24728 RSSOwl Portable 2.0.6 Development Test1
   * http://code.google.com/p/rssowl-portable/ (of RSSOwl 1.2.3 version)
@@ -20,7 +20,7 @@ Information
 
 TODO
 ----
-* add documentation
+* add documentation (?)
 * add scripts to auto-generate RSSOwl.ini, PortableApps.com installer, …
 * discuss whether RSSOwl portable should
 	* be shipped with all available translations
